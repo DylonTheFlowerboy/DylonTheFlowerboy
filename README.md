@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DylonTheFlowerboy
-- 👀 I’m interested in game development, sound design, and software development
-- 🌱 I’m currently learning Java and SQL at the NWU Potchefstroom Campus
+- 👀 I’m interested in game development, sound design, and software and web development
+- 🌱 I’m currently studying Information Technology at the NWU Potchefstroom Campus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I taught myself sound design and web development because I was bored during Covid
+- ⚡ Fun fact: I like to spend my free time learning CSS animation
 
 <!---
 DylonTheFlowerboy/DylonTheFlowerboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
